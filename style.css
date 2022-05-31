@@ -3,6 +3,18 @@ body {
     background-size: cover;
   }
 
+ul > li {
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+ol  li {
+    color: aliceblue;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    font-size: large;    
+}
+
 #mg {
     font-size: x-large;
 }
