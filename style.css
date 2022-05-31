@@ -3,32 +3,18 @@ body {
     background-size: cover;
   }
 
-ul > li {
+.estado {
     color: aliceblue;
     text-decoration: underline;
 }
 
-ol  li {
+.cidade {
     color: aliceblue;
     text-decoration: underline;
     text-decoration-style: dashed;
     font-size: large;    
 }
 
-#mg {
-    font-size: x-large;
-}
-
-#rj {
-    font-weight: bolder;
-}
-
-#sp {
-    font-size: x-small;
-    font-weight: bolder;
-    font-variant: small-caps;
-}
-
-#es {
-    font-weight: bolder;
+#residente {
+    color: red;
 }
