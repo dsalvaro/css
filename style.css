@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://c.tenor.com/Ma97xq_5Nm4AAAAC/pericles-excited.gif');
+    background-size: cover;
+  }
+
+#mg {
+    font-size: x-large;
+}
+
+#rj {
+    font-weight: bolder;
+}
+
+#sp {
+    font-size: x-small;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+#es {
+    font-weight: bolder;
+}
